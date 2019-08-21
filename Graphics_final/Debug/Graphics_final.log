@@ -1,0 +1,8 @@
+﻿  paint.c
+e:\elena\work-search\projects\c graphics 2d painting tool\graphics_final\paint.c(121): warning C4101: 'j': unreferenced local variable
+e:\elena\work-search\projects\c graphics 2d painting tool\graphics_final\paint.c(201): warning C4101: 'i': unreferenced local variable
+e:\elena\work-search\projects\c graphics 2d painting tool\graphics_final\paint.c(268): warning C4101: 'j': unreferenced local variable
+e:\elena\work-search\projects\c graphics 2d painting tool\graphics_final\paint.c(268): warning C4101: 'i': unreferenced local variable
+e:\elena\work-search\projects\c graphics 2d painting tool\graphics_final\paint.c(285): warning C4013: 'getch' undefined; assuming extern returning int
+  Graphics_final.vcxproj -> E:\Elena\Work-Search\Projects\C Graphics 2D Painting Tool\Debug\Graphics_final.exe
+  Graphics_final.vcxproj -> E:\Elena\Work-Search\Projects\C Graphics 2D Painting Tool\Debug\Graphics_final.pdb (Full PDB)
