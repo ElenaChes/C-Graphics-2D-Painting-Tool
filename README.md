@@ -1,6 +1,6 @@
 # C 2D Painting Tool.
 
-A college project in C, with the requerment to be a simplified dup of Microsoft's Paint.
+A college project in C, with the requerment to be a simplified dupe of Microsoft's Paint.
 
 # Installation
 
