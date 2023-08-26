@@ -1,6 +1,7 @@
 # Painting Tool.
 
- <img align="right" style="width:350px; height:auto;" src="https://github.com/ElenaChes/C-Graphics-2D-Painting-Tool/assets/54331769/c8a060d9-d6d5-4c96-8bf7-d725c3772cf4">
+<img align="right" style="width:350px; height:auto;" src="https://github.com/ElenaChes/C-Graphics-2D-Painting-Tool/assets/54331769/c8a060d9-d6d5-4c96-8bf7-d725c3772cf4">
+
 A college project in C.<br>
 Description: a simplified dupe of Microsoft's Paint.
 
