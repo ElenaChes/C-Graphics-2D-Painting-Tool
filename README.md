@@ -8,7 +8,8 @@ Description: a simplified dupe of Microsoft's Paint.
 # Installation
 
 1. Run `Graphics_final.exe` or compile `Graphics final.sln` via Visual Studio.
-2. Raw code file is in Graphics final->paint.c
+
+Raw code is in Graphics_final/paint.c.
 
 > You might need to find a glut32.dll to download off the internet<br>if your pc doesn't have it already.
 
